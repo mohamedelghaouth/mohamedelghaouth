@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm Mohamed! 👋 
-  <a href="https://www.linkedin.com/in/mohamed-el-ghaouth-55b08a178/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mohamed-el-ghaouth-55b08a178/" target="_blank">
     <img align="center" alt="mohamed el ghaouth LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
   </a>
 </h1>
