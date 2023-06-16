@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm Mohamed! 👋 
   <a href="https://www.linkedin.com/in/mohamed-el-ghaouth-55b08a178/" >
-    <img align="center" alt="mohamed el ghaouth LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="center" target=”_blank” alt="mohamed el ghaouth LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </h1>
 
